@@ -1,0 +1,2 @@
+This is just a text file. It doesn't mean anything. I have created this file to practice git bash.
+
