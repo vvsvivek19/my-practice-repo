@@ -1,2 +1,2 @@
-# my-practice-repo minor update!
+# my-practice-repo
 Practice account for learning Git.
